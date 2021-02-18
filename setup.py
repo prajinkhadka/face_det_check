@@ -27,15 +27,15 @@ setup(
     name="face-detection",
     version=face_detection.__version__,
     description="Fast and reliable face detection with RetinaFace",
-    author="Elliott Zheng",
-    author_email="admin@hypercube.top",
-    url="https://github.com/elliottzheng/RetinaFace",
+    author="Prajin Khadka",
+    author_email="prajin@fusemachines.com",
+    url="https://github.com/prajinkhadka/face_det_check",
     license="MIT",
     keywords="face-detection pytorch RetinaFace",
     project_urls={
-        "Documentation": "https://github.com/elliottzheng/face-detection",
+        "Documentation": "https://github.com/prajinkhadka/face_det_check",
         "Source": "https://github.com/elliottzheng/face-detection",
-        "Tracker": "https://github.com/elliottzheng/face-detection/issues",
+        "Tracker": "https://github.com/prajinkhadka/face_det_check/issues",
     },
     long_description=read_file("README.md"),  # 读取的Readme文档内容
     long_description_content_type="text/markdown",  # 指定包文档格式为markdown
